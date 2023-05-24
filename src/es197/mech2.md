@@ -68,7 +68,7 @@ $$\tau (t) = J \frac{d^2}{dt^2}\theta(t) = J \ddot{\theta}(t)$$
 Energy Stored:
 $$W = \frac{1}{2} J \omega^2$$
 
-**_The force $J \ddot{\theta}$ acts in the opposite direction to the direction the mass is spinning_**
+**_The force_** $J \dot{\theta}$ **_acts in the opposite direction to the direction the mass is spinning_**
 
 ### Rotational Spring
 
@@ -88,9 +88,9 @@ $$W = \frac{1}{2} k (\theta_1(t) - \theta_2(t))^2$$
 
 ### Rotational Damper
 
-- Dissapates energy as heat
+- Dissipates energy as heat
 - Non-reversible
-- Energy dissapated $\propto$ angular velocity
+- Energy dissipated $\propto$ angular velocity
 
 Elemental Equation:
 
