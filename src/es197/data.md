@@ -16,8 +16,8 @@
 
 - A grey box model is similar to white box, except where some physical parameters are unknown
 - A model is developed using known physical properties, except some parameters are left unknown
-- Data is then collected from testing and used to find parameted
-- For example: "What is the force required to stretch this spring by $x$mm, when the stiffness is unknown"
+- Data is then collected from testing and used to find parameters
+- For example: "What is the force required to stretch this spring by $x$ mm, when the stiffness is unknown"
   - Using knowledge, $F=Kx$
   - Test spring to collect data
   - Find value of $K$ that best fits the data to create a model
