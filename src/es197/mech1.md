@@ -1,7 +1,7 @@
 # Translational Mechanical Systems
 
 - Translational systems involve movement in 1 dimension
-- For example, a the suspension in a car going over bumps going up and down
+- For example, the suspension in a car going up and down over bumps
 - System diagrams can be used to represent systems
 
 ![](./img/mech1-1.png)
@@ -24,7 +24,6 @@ When modelling systems, some assumptions are made:
 - Masses are all perfectly rigid
 - Springs and dampers have zero mass
 - All behaviour is assumed to be linear
--
 
 ### Mass
 
@@ -84,7 +83,7 @@ Compatibility Law
 
 Equilibrium Law
 
-- Sum of external forces acting on a body equals mass x acceleration
+- Sum of external forces acting on a body equals _mass x acceleration_
 - All forces acting on a body in equilibrium equals zero
 
 ### Fictitious/D'alembert Forces
