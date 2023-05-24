@@ -1,6 +1,6 @@
 # First Order Step Response
 
-Modelling is about predicting the behaviour of a system. Often, need to know
+Modelling is about predicting the behaviour of a system. Often, we need to know:
 
 - What is the output for a given input?
 - Is the system stable?
@@ -19,7 +19,7 @@ First order systems are those with only one energy store, and can be modelled by
 
 For the general form of the equation $T \frac{dy}{dt} + y = x$, the solution for a step input $x=H$ at time $t=0$, with $y(0) = 0$:
 $$y = H(1 - e^{-\frac{t}{T}})$$
-T is the time constant of the system.
+$T$ is the time constant of the system.
 
 ## Free and Forced Response
 
