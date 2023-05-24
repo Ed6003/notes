@@ -55,6 +55,6 @@ $$y(t) = H (1-(\omega_nt)e^{-\omega_nt})$$
 
 ### Overdamping
 
-The output rises slowly to its steady state value
+The output rises slowly to its steady state value.
 $$y(t) = H [ 1 - \frac{e^{-\zeta \omega_n t}}{\sqrt{\zeta^2 -1}} \sinh(\sqrt{\zeta^2-1}\omega_nt + \phi)]$$
 $$\tan \phi = \frac{\sqrt{\zeta^2-1}}{\zeta}$$
