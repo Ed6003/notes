@@ -1,6 +1,6 @@
 # Thermal Systems
 
-- User to model heat transfer
+- Used to model heat transfer
   - For example in a house
   - Or in electronic components
 - Determine efficiency of elements
